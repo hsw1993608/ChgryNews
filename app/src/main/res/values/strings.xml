@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChgryNews</string>
+
+<!-- GuideActivity -->
+    <string name="begin">开始体验</string>
+
+</resources>
